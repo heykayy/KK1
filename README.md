@@ -1,5 +1,5 @@
 #Example Repository  
-This is me KANISHKA.  
+This is me.  
 Its my first repository in Github.  
 THANK YOU !!  
 :)  
